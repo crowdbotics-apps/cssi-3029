@@ -1,0 +1,3 @@
+rootProject.name = 'cssi_3029'
+
+include ':app'
